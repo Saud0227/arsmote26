@@ -499,7 +499,7 @@ footer > p {
     color: var(--granite);
 }
 
-footer a {
+a.inline {
     color: var(--magenta);
 }
 
